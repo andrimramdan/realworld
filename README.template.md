@@ -18,6 +18,8 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
 
 *Read the [full blog post announcing RealWorld on Medium.](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5)*
 
+### See an updated list of RealWorld implementations on the [CodebaseShow website](https://codebase.show/projects/realworld).
+
 
 # Frontends
 <!-- INSERT_FRONTEND_REPOS -->
@@ -41,7 +43,10 @@ Work In Progress:
 
 _Since these implementations are responsible for the entire stack, they obviously cannot be mixed and matched but they still adhere to the same functionality & UX specs._
 
-Work In Progress: **[Meteor]() | [Ruby Hyperloop]() | [Firebase](https://github.com/gothinkster/realworld/issues/199)**
+<!-- INSERT_FULLSTACK_REPOS -->
+
+Work In Progress:
+<!-- INSERT_FULLSTACK_WIP -->
 
 # Create a new stack
 

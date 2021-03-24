@@ -16,6 +16,9 @@
 - title: Vue
   repo:  gothinkster/vue-realworld-example-app
   logo:  https://github.com/gothinkster/vue-realworld-example-app/blob/master/static/rwv-logo.png
+- title: Vue3 + Vite
+  repo:  mutoe/vue3-realworld-example-app
+  logo:  https://raw.githubusercontent.com/mutoe/vue3-realworld-example-app/master/logo.png
 - title: Svelte / Sapper
   repo:  sveltejs/realworld
   logo:  https://github.com/sveltejs/realworld/blob/master/logo.png
@@ -34,9 +37,9 @@
 - title: Aurelia
   repo:  gothinkster/aurelia-realworld-example-app
   logo:  https://raw.githubusercontent.com/gothinkster/aurelia-realworld-example-app/master/logo.png
-- title: Dojo 2
-  repo:  gothinkster/dojo2-realworld-example-app
-  logo:  https://raw.githubusercontent.com/gothinkster/dojo2-realworld-example-app/master/logo.png
+- title: Dojo
+  repo:  gothinkster/dojo-realworld-example-app
+  logo:  https://raw.githubusercontent.com/gothinkster/dojo-realworld-example-app/master/logo.png
 - title: Angular + ngrx + nx
   repo:  stefanoslig/angular-ngrx-nx-realworld-example-app
   logo:  https://raw.githubusercontent.com/stefanoslig/angular-ngrx-nx-realworld-example-app/master/logo.png
@@ -45,7 +48,7 @@
   logo:  https://raw.githubusercontent.com/kwasniew/hyperapp-realworld-example-app/master/logo.png
 - title: PureScript + Halogen
   repo:  thomashoneyman/purescript-halogen-realworld
-  logo:  https://raw.githubusercontent.com/thomashoneyman/purescript-halogen-realworld/master/assets/logo.png
+  logo:  https://raw.githubusercontent.com/thomashoneyman/purescript-halogen-realworld/main/assets/logo.png
 - title: Imba
   repo:  cartonalexandre/imba-realworld-example-app
   logo:  https://raw.githubusercontent.com/cartonalexandre/imba-realworld-example-app/master/logo.png
@@ -58,15 +61,18 @@
 - title: Bridge.Spaf
   repo:  markjackmilian/bridge.spaf-realworld-app
   logo:  https://raw.githubusercontent.com/markjackmilian/bridge.spaf-realworld-app/master/logo.png
-- title: Riot.js v3
+- title: Riot
   repo:  iq3addLi/riot_realworld_example_app
   logo:  https://raw.githubusercontent.com/iq3addLi/riot_realworld_example_app/master/logo.png
-- title: Riot.js v4
-  repo:  iq3addLi/riot_v4_realworld_example_app
-  logo:  https://raw.githubusercontent.com/iq3addLi/riot_v4_realworld_example_app/master/logo.png
 - title: Ember.js
   repo:  gothinkster/ember-realworld
   logo:  https://raw.githubusercontent.com/gothinkster/ember-realworld/master/logo.png
+- title: Preact
+  repo:  mutoe/preact-realworld-example-app
+  logo:  https://raw.githubusercontent.com/mutoe/preact-realworld-example-app/master/logo.png
+- title: Seed
+  repo:  seed-rs/seed-rs-realworld
+  logo:  https://raw.githubusercontent.com/seed-rs/seed-rs-realworld/master/logo.png
 - title: Rust + Yew + WebAssembly
   repo:  jetli/rust-yew-realworld-example-app
   logo:  https://raw.githubusercontent.com/jetli/rust-yew-realworld-example-app/master/logo.png
@@ -79,9 +85,27 @@
 - title: Next.js
   repo:  reck1ess/next-realworld-example-app
   logo:  https://raw.githubusercontent.com/reck1ess/next-realworld-example-app/master/project-logo.png
-- title: Ember Octane
-  repo:  patocallaghan/ember-octane-realworld
-  logo:  https://raw.githubusercontent.com/patocallaghan/ember-octane-realworld/master/logo.png
 - title: neo.mjs
   repo:  neomjs/neomjs-realworld-example-app
   logo:  https://raw.githubusercontent.com/gothinkster/realworld-starter-kit/master/logo.png
+- title: PureScript + React
+  repo:  jonasbuntinx/purescript-react-realworld
+  logo:  https://raw.githubusercontent.com/jonasbuntinx/purescript-react-realworld/master/assets/logo.png
+- title: Blazor WebAssembly
+  repo:  JoeyMckenzie/BlazorConduit
+  logo:  https://raw.githubusercontent.com/JoeyMckenzie/BlazorConduit/master/realworld-logo.png
+- title: Nuxt.js
+  repo:  devJang/nuxt-realworld
+  logo:  https://raw.githubusercontent.com/devJang/nuxt-realworld/master/logo.png
+- title: Solid.js
+  repo:  ryansolid/solid-realworld
+  logo:  https://raw.githubusercontent.com/ryansolid/solid-realworld/master/logo.png
+- title: Hoplon + shadow-cljs
+  repo:  rlander/conduit
+  logo:  https://raw.githubusercontent.com/rlander/conduit/master/logo.png
+- title: Mithril
+  repo:  boazblake/realworld-mithril
+  logo:  https://github.com/boazblake/realworld-mithril/blob/master/logo.png
+- title: Event Driven Vanilla JS Web Components
+  repo:  mits-gossau/event-driven-web-components-realworld-example-app
+  logo:  https://raw.githubusercontent.com/mits-gossau/event-driven-web-components-realworld-example-app/master/logo.png
